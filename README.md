@@ -5,12 +5,12 @@
 <h4 align="center">A citizen of the milky way galaxy by birth</h4>
 
 <div align="center">
-   <p>Fun fact: <b>I ran out of fun facts!</b></p>
+   <p>Fun fact: <b>I can spot a misaligned line in AutoCAD faster than I can explain why I ♥️ conspiracy theories.</b></p>
 </div>
 
 <hr/>
 
-<h2 align="center">My Intergalactic Design tools</h2>
+<h2 align="center">My Interstellar Drafting & 3D Arsenal</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=autocad,blender,windows,linux" /><br>
