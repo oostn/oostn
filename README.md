@@ -12,6 +12,7 @@
     <img src="icons/inventor.png" height="40" />
     <img src="icons/revit.png" height="40" />
     <img src="icons/solidworks.png" height="40" />
+    <img src="icons/ads.png" height="40" />
     <img src="https://skillicons.dev/icons?i=blender" height="40" />
 </div>
 
