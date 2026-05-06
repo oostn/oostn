@@ -11,6 +11,7 @@
     <img src="https://skillicons.dev/icons?i=autocad" height="40" />
     <img src="icons/inventor.png" height="40" />
     <img src="icons/revit.png" height="40" />
+    <img src="icons/solidworks.png" height="40" />
     <img src="https://skillicons.dev/icons?i=blender,windows,linux" height="40" />
 </div>
 
